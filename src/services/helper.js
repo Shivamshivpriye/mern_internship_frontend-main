@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:6010"
+export const BASE_URL = "https://mernyoutubebackend-main-4.onrender.com"
